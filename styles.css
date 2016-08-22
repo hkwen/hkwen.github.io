@@ -1,3 +1,41 @@
-body {
-	background: blue;
+h1 {
+	padding: 20px;
+	border: solid;
+	text-align: center;
+	background-color: white;
 }
+
+body{
+	background-image: url("flower.jpg")
+}
+
+table {
+	margin-bottom: 15px;
+}
+
+h2 { 
+font-family: Verdana;
+ }
+
+ .table {
+ 	background-color: white;
+ 	margin: 20px;
+ }
+
+ a:visited {
+ 	color: green;
+ }
+
+ a{
+ 	font-size: 2em;
+ }
+
+ #officer {
+ 	font-style: italic;
+ }
+
+ @media screen and (max-width: 500px) {
+ 	a {
+ 		font-size: 1em;
+ 	}
+ }
